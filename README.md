@@ -4,3 +4,9 @@ New York City publishes a number of open datasets for public consumption or use.
 
 
 ```import pandas as pd```
+
+Group Name: Yibaifen
+IEOR 4501 E  sec 002
+Group members:
+Meixuan Li-ml4550
+Shulu Fu-sf3038
