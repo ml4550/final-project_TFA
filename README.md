@@ -10,7 +10,7 @@ In the second Jupyter notebook called Parking.ipynb, we analyzed whether illegal
 ```import pandas as pd```
 
 Group Name: Yibaifen
-IEOR 4501 E  sec 002
-Group members:
-Meixuan Li-ml4550
-Shulu Fu-sf3038
+<br />IEOR 4501 E  sec 002
+<br />Group members:
+<br />Meixuan Li-ml4550
+<br />Shulu Fu-sf3038
